@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Documentation repository for C5
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repository includes documentation
+for C5's project Socdrawer
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Read the docs here: https://socdrawer.readthedocs.io
