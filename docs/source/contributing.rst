@@ -18,7 +18,7 @@ To contribute, please follow these basic steps:
 Please read :doc:`installation <installation>` for more detailed information.
 
 Example Users
-=============
+-------------
 
 This section documents the mock users available in the development environment.
 
