@@ -33,3 +33,35 @@ Membership Dashboard
 
 These features are tailored to support students in engaging with campus life, whether they’re new members or committee organizers.
 
+
+Screenshots
+-----------
+.. image:: /screenshots/home.ios.png
+   :alt: Home page showing society feed
+
+.. image:: /screenshots/home.ios.nocommittee.png
+   :alt: Home page without committee tools
+
+.. image:: /screenshots/login.ios.png
+   :alt: Login page with university authentication
+
+.. image:: /screenshots/profile.ios.png
+   :alt: User profile page
+
+.. image:: /screenshots/events.ios.png
+   :alt: List of upcoming society events
+
+.. image:: /screenshots/event.page.ios.png
+   :alt: Detailed view of a specific event
+
+.. image:: /screenshots/event.ios.png
+   :alt: Event card preview
+
+.. image:: /screenshots/day.ios.png
+   :alt: Daily schedule of events
+
+.. image:: /screenshots/pool.ios.png
+   :alt: Event pool view (all societies)
+
+.. image:: /screenshots/committee.ios.png
+   :alt: Committee tools for publishing events
