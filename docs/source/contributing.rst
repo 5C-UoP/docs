@@ -17,6 +17,46 @@ To contribute, please follow these basic steps:
 
 Please read :doc:`installation <installation>` for more detailed information.
 
+Example Users
+=============
+
+This section documents the mock users available in the development environment.
+
+.. note::
+   This data is **hardcoded** and should not be used in production. Passwords are stored in plaintext for convenience during development.
+
+
+**Sam Blewitt**
+
+- 📧 **Email**: ``john.doe@myport.ac.uk``  
+- 🔑 **Password**: ``test``  
+- 👥 **Committee of**:
+  - Aviation
+  - IT Soc
+- 👤 **Member of**:
+  - Pool
+
+**John Doe**
+
+- 📧 **Email**: ``example.user@myport.ac.uk``  
+- 🔑 **Password**: ``test``  
+- 👥 **Committee of**: *(None)*  
+- 👤 **Member of**:
+  - Aviation
+  - IT Soc
+  - Pool
+
+**Admin**
+
+- 📧 **Email**: ``admin@myport.ac.uk``  
+- 🔑 **Password**: ``admin``  
+- 👥 **Committee of**:
+  - Aviation
+  - IT Soc
+  - Pool
+  - Jolly Roger Society
+- 👤 **Member of**: *(None)*
+
 Coding Conventions
 ------------------
 
